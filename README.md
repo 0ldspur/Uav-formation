@@ -15,7 +15,7 @@ This project explores decentralized formation control for multiple UAVs using Mu
 - PyBullet (for simulation)
 - Gym (environment integration)
 - Crazyflie (for real-world deployment)
-- Google Colab / Cloud GPU (for training)
+- pycharm
 
 ## 📁 Folder Structure
 
